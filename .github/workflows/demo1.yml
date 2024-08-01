@@ -12,7 +12,7 @@ on:
     branches:
       - main
     paths-ignore:
-      - '.github/workflows/*'
+      - '.github_/workflows/*'
 
 jobs:
   deploy:
